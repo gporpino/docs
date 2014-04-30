@@ -25,50 +25,50 @@ HTML + CSS para iniciantes. Faça um website, não é necessário servidor!
 MARKDOWN
 
 site_desc 'intro-to-javascript', <<-MARKDOWN
-A Javascript specific curriculum that walks you through [building a simple game](http://snake-tutorial.zeespencer.com/).
+Um curriculum específico de Javascript que te ensina [criando um game simples](http://snake-tutorial.zeespencer.com/).
 MARKDOWN
 
 h1 'Ruby'
 
 site_desc 'learn-to-code', <<-MARKDOWN
-A course which teaches how to code from the ground up, using Alex's [Learn To Code In Ruby](http://codelikethis.com/lessons/learn_to_code) curriculum. It's geared towards people who may never have written code before and teaches just enough Ruby to get across basic principles like variables, objects, and the command line.
+Um curso que ensina como fazer um código do zero, usando o curriculum do Alex's [Aprenda a Programar em Ruby](http://codelikethis.com/lessons/learn_to_code). It's geared towards people who may never have written code before and teaches just enough Ruby to get across basic principles like variables, objects, and the command line.
 MARKDOWN
 
 site_desc 'ruby', <<-MARKDOWN
-A ruby-specific curriculum, expanded from the "Ruby for Beginners" slide deck. Still new, with room for your contributions.
+Uma ementa específica de ruby, derivada dos slides "Ruby for Beginners". Ainda novo, com espaço para suas contribuições.
 MARKDOWN
 
 h1 'Other'
 
 site_desc 'workshop', <<-MARKDOWN
-The Railsbridge junkyard! Slide decks for opening/closing presentations, teacher training.
+O ferro-velho do Railsbridge! Slides para abrir/fechar apresentações, formação de professores.
 MARKDOWN
 
 message <<MARKDOWN
 # RailsBridge curriculum-related FAQ
 
-### Can I use the RailsBridge curricula at my event?
+### Posso usar a ementa RailsBridge no meu evento?
 
-Anyone can use this site! It's under a Creative Commons license ([CC-BY,  specifically](http://creativecommons.org/licenses/by/3.0/)), which means you're welcome to share, remix, or use our content commercially. We just ask for attribution.
+Qualquer um pode usar este site! Está sob a licença Creative Commons ([CC-BY,  especificamente](http://creativecommons.org/licenses/by/3.0/)), Ou seja, fique a vontade para complatilhar, melhorar, ou usar nosso conteúdo comercialmente. Só pedimos que nos referencie.
 
-Slightly different: if you're organizing an event and wonder if it could be considered a RailsBridge Workshop, we just have two requests:
+Um pouco diferente: se você está organinzando um evento e gostaria que ele fosse considerado um workshop RailsBridge, nós temos apenas dois requisitos:
 
-* The event should be free of charge.
-* The event should work toward making tech more welcoming!
+* O evento deve ser gratúito.
+* Oevento deve colaborar para fazer a tecnologia mais amigável e acolhedora!
 
-If you're not doing those two things, you can totally still use the site, we just ask that you not call your event a RailsBridge workshop.
+Se você não está fazendo essas duas coisa, ainda pode usar completamente este site, só pedimos que não chame de workshop RailsBridge.
 (Charity workshops have used "Rails Workshop featuring the RailsBridge curriculum" in the past, which is neat.)
 
 
-### I want to help, but I don't know how.
+### Eu quero ajudar, mas não sei como.
 
-First, [make a GitHub account](https://github.com/). Then, [create an issue](https://github.com/railsbridge/docs/issues) with the idea you have. We'll help you turn it into reality (assuming it's in line with our lofty goals :D).
+Primeiro, [faça uma conta no GitHub](https://github.com/). Depois, [crie uma issue](https://github.com/railsbridge/docs/issues) com a ideia que você tem. Nós ajudaremos você a tornar isto uma realidade (óbivio se estiver alinhado com nossos grandiosos e sublimes objetivos :D).
 
-Don't know what you could work on? Browse the [issues list](https://github.com/railsbridge/docs/issues) and the [To Do list](https://github.com/railsbridge/docs/wiki/RailsBridge-To-Do-List). Those have lots of ideas.
+Não sei como poderia trabalhar? Veja a lista de [issues](https://github.com/railsbridge/docs/issues) e a [To Do list](https://github.com/railsbridge/docs/wiki/RailsBridge-To-Do-List). Essas listas tem muito o que fazer.
 
 
-### I have a different question about RailsBridge.
+### Eu tenho uma pergunta diferente sobre o RailsBridge.
 
-The [RailsBridge website](http://www.railsbridge.org) probably has an answer!
+O [site do RailsBridge](http://www.railsbridge.org) provavelmente tem a resposta!
 
 MARKDOWN
